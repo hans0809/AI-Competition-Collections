@@ -10,5 +10,5 @@
 
 文字教程：
 
-代码链接：
+代码链接：https://github.com/hans0809/AI-Competition-Collections/blob/main/BookRes.ipynb
 持续更新中
