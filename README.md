@@ -16,7 +16,7 @@
 
 ## Kaggle-HappyWhale
 
-代码连接：https://github.com/hans0809/Kaggle-Whale
+代码链接：https://github.com/hans0809/Kaggle-Whale
 
 概述：https://hans0809.github.io/2022/05/06/%E9%B2%B8%E9%B1%BC%E5%92%8C%E6%B5%B7%E8%B1%9A%E8%AF%86%E5%88%AB%E7%AB%9E%E8%B5%9B%E8%A7%A3%E6%9E%90-%E5%85%A8%E6%B5%81%E7%A8%8B%E6%A6%82%E8%BF%B0/
 
